@@ -1,4 +1,5 @@
-const players = ["John", "Bob", "Alice", "Poppy"];
+let team = ["John", "Bob", "Alice", "Poppy"];
+let team1 = ...[team]
 
 const person = {
   name: "John Doe",
